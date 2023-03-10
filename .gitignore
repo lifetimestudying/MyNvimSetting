@@ -1,0 +1,4 @@
+node_modules/
+autoload/
+vim-plug/
+plugged/
